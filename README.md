@@ -1,4 +1,4 @@
-# movie-recommendation
+# ChatGPT Tweets Analysis
 Repository for the advanced machine learning course
 
 ## Setup
